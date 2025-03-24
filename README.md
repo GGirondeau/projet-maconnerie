@@ -11,7 +11,7 @@ Site vitrine pour une entreprise de maçonnerie. Présente les services et perme
 - Git / GitHub
 
 ## 📌 Auteurs
-- **Geoffrey**
-- **Romain**
-- **David**
-- **Karima**
+- **Geoffrey** footer
+- **Romain** header
+- **David** section
+- **Karima** header
